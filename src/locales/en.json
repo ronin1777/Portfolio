@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "hello": "Hi, I'm",
+    "title": "Hosein Sayah",
+    "subtitle": "Fullstack Developer",
+    "description": "Hi! I'm Hosein Sayah, a fullstack developer and modern web creator. My expertise is in building interactive UIs and great user experiences. Using JavaScript, React, and Next.js, I create professional frontend apps, and with Python and DRF, I build scalable and powerful backend systems. I lead my projects with precision, attention to detail, and optimal performance to turn ideas into tangible, practical products.",
+    "portfolio": "Portfolio",
+    "download_resume": "Download Resume",
+    "contact_me": "Contact Me"
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "javascript": "JavaScript",
+    "react": "React",
+    "nextjs": "Next.js",
+    "typescript": "TypeScript",
+    "python": "Python",
+    "django": "Django",
+    "tailwindcss": "TailwindCSS",
+    "git": "Git"
+  },
+  "projects": {
+    "title": "My Projects",
+    "wikiq": {
+      "title": "WikiQ: Online testing platform",
+      "desc": "WikiQ is an online testing platform and question bank built with Django REST Framework. It enables secure test management, analytics, and real-time tracking for educational content.",
+      "tech": ["Next.js", "react", "TailwindCSS", "django rest framework"]
+    },
+    "tastecoffee": {
+      "title": "tastecoffee: coffee e-commerce",
+      "desc": "Designed, developed, and deployed an online coffee store in a cloud environment, focusing on scalability, performance, and SEO optimization.",
+      "tech": ["Next.js", "django rest framework", "jwt"]
+    },
+    "stopwatch": {
+      "title": "Productivity Timer",
+      "desc": "A sleek productivity timer application with customizable work sessions, statistics tracking, and dark mode support.",
+      "tech": ["React", "TypeScript", "TailwindCSS"]
+    }
+  },
+  "projectDetail": {
+    "notFound": "Project not found.",
+    "viewProject": "View Project",
+    "startDate": "Start Date:",
+    "endDate": "End Date:",
+    "descTitle": "Project Description",
+    "techTitle": "Technologies Used"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "namePlaceholder": "Name ...",
+    "emailPlaceholder": "Email ...",
+    "messagePlaceholder": "Message ...",
+    "submit": "Send Message",
+    "submitting": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Please try again."
+  },
+  "navbar": {
+    "home": "Home",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "notfound": {
+    "title": "404",
+    "message": "Page not found!",
+    "back": "Back to Home"
+  }
+}
