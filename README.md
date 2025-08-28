@@ -3,7 +3,7 @@
 
 یک وبسایت نمونه کار مدرن و تعاملی ساخته شده با **React**, **Vite** و انیمیشن‌های جذاب. این پروژه برای نمایش مهارت‌ها، نمونه‌کارها و اطلاعات تماس به شکلی حرفه‌ای طراحی شده است.  
 
-![Portfolio Demo](public/demo.png) <!-- در صورت داشتن تصویر یا گیف دمو، این مسیر رو آپدیت کن -->
+![Portfolio Demo](public/demo.jpg) <!-- در صورت داشتن تصویر یا گیف دمو، این مسیر رو آپدیت کن -->
 
 ---
 
@@ -112,6 +112,7 @@ VITE_EMAILJS_TEMPLATE_ID=
 3. تغییرات را Commit کنید (`git commit -m 'Add some AmazingFeature'`)  
 4. Push کنید (`git push origin feature/AmazingFeature`)  
 5. درخواست Pull Request بدهید  
+
 
 
 
