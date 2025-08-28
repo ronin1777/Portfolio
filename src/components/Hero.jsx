@@ -3,6 +3,8 @@ import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { vscDarkPlus } from "react-syntax-highlighter/dist/esm/styles/prism";
 import { useTranslation } from "react-i18next";
 
+import ModelViewer from "./My3DModel";
+
 const fadeInUp = {
   initial: { opacity: 0, y: 20 },
   animate: { opacity: 1, y: 0 },
@@ -19,6 +21,7 @@ const staggerContainer = {
 
 export const Hero = () => {
   const { t } = useTranslation();
+
   return (
     <motion.section
       id="home"
@@ -72,7 +75,10 @@ export const Hero = () => {
               whileTap={{ scale: 0.95 }}
               style={{ marginRight: "8px" }}
             >
-              <i className="fas fa-file-download" style={{ marginLeft: "6px" }}></i>
+              <i
+                className="fas fa-file-download"
+                style={{ marginLeft: "6px" }}
+              ></i>
               {t("hero.download_resume")}
             </motion.a>
             <motion.a
@@ -103,7 +109,7 @@ export const Hero = () => {
             </motion.a>
           </motion.div>
         </motion.div>
-
+        <ModelViewer />
         <motion.div
           className="hero-image-container"
           initial={{ opacity: 0, x: 50 }}

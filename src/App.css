@@ -1049,3 +1049,13 @@ body {
     max-width: 100%;
   }
 }
+
+.model-wrapper {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  overflow: hidden; /* مطمئن می‌شود مدل از این محدوده بیرون زده نشود */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
