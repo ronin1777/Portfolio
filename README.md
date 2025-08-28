@@ -113,20 +113,6 @@ VITE_EMAILJS_TEMPLATE_ID=
 4. Push کنید (`git push origin feature/AmazingFeature`)  
 5. درخواست Pull Request بدهید  
 
----
 
-## 📜 لایسنس (License)
 
-این پروژه تحت لایسنس MIT منتشر شده است. برای اطلاعات بیشتر به فایل [LICENSE](LICENSE) مراجعه کنید.  
-
----
-
-## 📬 تماس (Contact)
-
-برای ارتباط و سوالات:  
-- ایمیل: your-email@example.com  
-- لینکدین: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- گیت‌هاب: [ronin1777](https://github.com/ronin1777)  
-
----
 
