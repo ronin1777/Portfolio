@@ -3,7 +3,7 @@ import { Canvas } from "@react-three/fiber";
 import React, { Suspense } from "react";
 
 export function My3DModel() {
-  const { scene } = useGLTF("/public/guts.glb");
+  const { scene } = useGLTF("/guts.glb");
   return <primitive object={scene} scale={1} position={[0, -1.5, 0]} />;
 }
 export default function ModelViewer() {
