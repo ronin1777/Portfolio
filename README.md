@@ -86,7 +86,9 @@ Portfolio/
 برای استفاده از EmailJS، در ریشه پروژه یک فایل `.env` ایجاد کرده و مقادیر زیر را قرار دهید:
 
 ```
-VITE_EMAILJS_PUBLIC_ID=your_public_key_here
+VITE_EMAILJS_SERVER_ID=
+VITE_EMAILJS_PUBLIC_ID=
+VITE_EMAILJS_TEMPLATE_ID=
 ```
 
 مقادیر رو می‌تونید از داشبورد EmailJS بگیرید.  
@@ -127,3 +129,4 @@ VITE_EMAILJS_PUBLIC_ID=your_public_key_here
 - گیت‌هاب: [ronin1777](https://github.com/ronin1777)  
 
 ---
+
